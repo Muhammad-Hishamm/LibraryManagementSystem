@@ -1,6 +1,6 @@
 # Very Important Note
 I'm .Net Engineer so i was going to implement using asp.net but i thought that it won't match your requirements so I have created this with GPT's help and tried to be the initiator instead of making him do everything as much as i can.
-thanks.
+thanks in advance.
 #  Library Management System
 
 A simple, modular **Library Management System** built using **Node.js**, **Express.js**, and **MySQL**. It allows managing books, borrowers, and the borrowing process with RESTful API support. It includes advanced features such as CSV exports, rate limiting, authentication, and Docker support.
